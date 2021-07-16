@@ -1,4 +1,53 @@
-## Machine Learning Homework - Exoplanet Exploration
+# Machine Learning Challange
+### Intention of the Repository
+
+This Repository has been made to summit the homework assignment for my Data Science Bootcamp at Northwestern University
+
+Machine Learning challenge
+
+Student: Jorge Daniel Atuesta
+
+July, 2021
+
+### Inside of this repository
+
+In this repository, the reader will encounter my solution to the homework assignment Machine Learning challange. The repository is organized in folders and a README.md (The file you are currently reading). Here is the list of the folders and their contents so you can navigate through them.
+
+I hope you find my work not only to be complete but to display all the knowledge learned throughout this portion of the Data Science Bootcamp at Northwestern University.
+
+1. **Images**: Inside this folder you will find the images for the instructions provided by the institution. *You can skip this folder if you want*.
+2. **Machine_Learning**: Inside this folder, you will have the chance to access my code for the assignment and all the output data. I encourage you to take a look inside as you will find the solution to the project and screenshots from it. Here are what's inside:
+   * *Jupyter Lab notebooks*: You will find my CSS style sheet that I created for my page.
+   * *Resources*: You will see a CSV file that I used as well as images for the graphs.
+3. **README.md**: it's the current file you are reading. I strongly suggest navigating through it and look at the project's objective solution and analysis.
+
+## Machine Learning Challenge
+
+### Project's Aim
+
+Using the Machine Learning concepts create a model to identify planets based on the data set.
+
+#### Project's Challanges
+
+##### Preprocess the Data
+
+* Preprocess the dataset prior to fitting the model.
+* Perform feature selection and remove unnecessary features.
+* Use `MinMaxScaler` to scale the numerical data.
+* Separate the data into training and testing data.
+
+##### Tune Model Parameters
+
+* Use `GridSearch` to tune model parameters.
+* Tune and compare at least two different classifiers.
+
+### Reporting
+
+* Create a README that reports a comparison of each model's performance as well as a summary about your findings and any assumptions you can make based on your model (is your model good enough to predict new exoplanets? Why or why not? What would make your model be better at predicting new exoplanets?).
+
+## Instructions provided by Northwestern University
+
+### Machine Learning Homework - Exoplanet Exploration
 
 ![exoplanets.jpg](Images/exoplanets.jpg)
 
